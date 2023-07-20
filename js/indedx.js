@@ -10,5 +10,5 @@ function calculateTip() {
     ${"PER PERSON."}
     `
     output.classList.remove("hide");
-    output.style.color = "red";
+    output.style.color = "black";
 }
